@@ -56,6 +56,7 @@ The title of the pull request should be prefixed by the component or area that
 the pull request affects. Valid areas as:
 
   - *Consensus* for changes to consensus critical code
+  - *Chain* Chain factor you can modify here
   - *Docs* for changes to the documentation
   - *Qt* for changes to bitcoin-qt
   - *Mining* for changes to the mining code
