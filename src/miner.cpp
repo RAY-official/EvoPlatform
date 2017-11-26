@@ -7,7 +7,7 @@
 
 #include "amount.h"
 #include "chain.h"
-#include "chainparams.h"
+#include "chain/chainparams.h"
 #include "coins.h"
 #include "consensus/consensus.h"
 #include "consensus/tx_verify.h"

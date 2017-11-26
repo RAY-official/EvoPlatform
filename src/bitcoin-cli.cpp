@@ -7,7 +7,7 @@
 #include "config/bitcoin-config.h"
 #endif
 
-#include "chainparamsbase.h"
+#include "chain/chainparamsbase.h"
 #include "clientversion.h"
 #include "fs.h"
 #include "rpc/client.h"

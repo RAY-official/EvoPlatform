@@ -9,7 +9,7 @@
 
 #include "util.h"
 
-#include "chainparamsbase.h"
+#include "chain/chainparamsbase.h"
 #include "fs.h"
 #include "random.h"
 #include "serialize.h"

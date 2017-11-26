@@ -5,7 +5,7 @@
 
 #include "txdb.h"
 
-#include "chainparams.h"
+#include "chain/chainparams.h"
 #include "hash.h"
 #include "random.h"
 #include "pow.h"

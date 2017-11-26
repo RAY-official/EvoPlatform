@@ -5,7 +5,7 @@
 #include "blockencodings.h"
 #include "consensus/consensus.h"
 #include "consensus/validation.h"
-#include "chainparams.h"
+#include "chain/chainparams.h"
 #include "hash.h"
 #include "random.h"
 #include "streams.h"

@@ -4,7 +4,7 @@
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 #include "chain.h"
-#include "chainparams.h"
+#include "chain/chainparams.h"
 #include "core_io.h"
 #include "primitives/block.h"
 #include "primitives/transaction.h"

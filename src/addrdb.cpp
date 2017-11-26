@@ -6,7 +6,7 @@
 #include "addrdb.h"
 
 #include "addrman.h"
-#include "chainparams.h"
+#include "chain/chainparams.h"
 #include "clientversion.h"
 #include "fs.h"
 #include "hash.h"

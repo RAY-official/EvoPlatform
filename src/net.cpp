@@ -10,7 +10,7 @@
 #include "net.h"
 
 #include "addrman.h"
-#include "chainparams.h"
+#include "chain/chainparams.h"
 #include "clientversion.h"
 #include "consensus/consensus.h"
 #include "crypto/common.h"
