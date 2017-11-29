@@ -4,7 +4,7 @@
 
 #include "rpc/server.h"
 
-#include "chainparams.h"
+#include "chain/chainparams.h"
 #include "clientversion.h"
 #include "core_io.h"
 #include "validation.h"

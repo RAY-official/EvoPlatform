@@ -5,7 +5,7 @@
 
 #include "miner.h"
 
-#include "amount.h"
+#include "coincontrol/amount.h"
 #include "chain.h"
 #include "chain/chainparams.h"
 #include "coins.h"

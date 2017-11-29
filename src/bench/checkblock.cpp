@@ -4,7 +4,7 @@
 
 #include "bench.h"
 
-#include "chainparams.h"
+#include "chain/chainparams.h"
 #include "validation.h"
 #include "streams.h"
 #include "consensus/validation.h"

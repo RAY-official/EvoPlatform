@@ -8,7 +8,7 @@
 
 #include "addrdb.h"
 #include "addrman.h"
-#include "amount.h"
+#include "coincontrol/amount.h"
 #include "bloom.h"
 #include "compat.h"
 #include "hash.h"

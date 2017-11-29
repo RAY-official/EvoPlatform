@@ -4,9 +4,9 @@
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 #include "base58.h"
-#include "amount.h"
+#include "coincoontrol/amount.h"
 #include "chain.h"
-#include "chainparams.h"
+#include "chain/chainparams.h"
 #include "consensus/consensus.h"
 #include "consensus/params.h"
 #include "consensus/validation.h"

@@ -10,7 +10,7 @@
 #include "config/bitcoin-config.h"
 #endif
 
-#include "amount.h"
+#include "coincontrol/amount.h"
 #include "coins.h"
 #include "fs.h"
 #include "protocol.h" // For CMessageHeader::MessageStartChars

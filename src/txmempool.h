@@ -13,7 +13,7 @@
 #include <utility>
 #include <string>
 
-#include "amount.h"
+#include "coincontrol/amount.h"
 #include "coins.h"
 #include "indirectmap.h"
 #include "policy/feerate.h"

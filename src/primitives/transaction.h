@@ -7,7 +7,7 @@
 #define BITCOIN_PRIMITIVES_TRANSACTION_H
 
 #include <stdint.h>
-#include "amount.h"
+#include "coincoontrol/amount.h"
 #include "script/script.h"
 #include "serialize.h"
 #include "uint256.h"

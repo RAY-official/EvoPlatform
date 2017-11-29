@@ -5,10 +5,10 @@
 
 #include "rpc/blockchain.h"
 
-#include "amount.h"
+#include "coincoontrol/amount.h"
 #include "chain.h"
-#include "chainparams.h"
-#include "checkpoints.h"
+#include "chain/chainparams.h"
+#include "chain/checkpoints.h"
 #include "coins.h"
 #include "consensus/validation.h"
 #include "validation.h"
